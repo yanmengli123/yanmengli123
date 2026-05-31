@@ -80,11 +80,22 @@ const ymll = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/7zIGJHEyQmSQgBkLUE/giphy.gif" width="25"> Trophies
+## <img src="https://media.giphy.com/media/7zIGJHEyQmSQgBkLUE/giphy.gif" width="25"> Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yanmengli123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Stats Card - 更可靠的替代方案 -->
+<img src="https://github-readme-stats.vercel.app/api?username=yanmengli123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&ring_color=10B981&line_color=10B981&hide=issues,prs" alt="GitHub Stats"/>
+
+<br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmengli123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" alt="Top Languages"/>
+
+<br/>
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=yanmengli123&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681)](https://git.io/streak-stats)
 
 </div>
 
