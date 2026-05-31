@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- 动态打字效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+YMLL;Full+Stack+Developer;Tech+%26+Design+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+<!-- 动态打字效果 - 使用正确格式 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+YMLL;Full+Stack+Developer;Tech+%26+Design+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
-<!-- 简介徽章 -->
-<img src="https://img.shields.io/badge/🎯_Building_beautiful_things_with_code-10B981?style=for-the-badge&labelColor=0D1117&color=10B981" alt="motto"/>
+<!-- 个人简介徽章 -->
+<img src="https://img.shields.io/badge/🎯_Building_beautiful_things_with_code-10B981?style=for-the-badge&labelColor=0D1117" alt="motto"/>
 
 <br/><br/>
 
@@ -58,18 +58,25 @@ const ymll = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/KzJkzjga8tCvmXOMpa/giphy.gif" width="25"> GitHub Analytics
+## <img src="https://media.giphy.com/media/KzJkzjga8tCvmXOMpa/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats - 使用 shields.io 徽章（更可靠） -->
+![GitHub followers](https://img.shields.io/github/followers/yanmengli123?style=for-the-badge&logo=github&color=10B981)
+![GitHub stars](https://img.shields.io/github/stars/yanmengli123?style=for-the-badge&logo=github&color=10B981)
+![GitHub forks](https://img.shields.io/github/forks/yanmengli123?style=for-the-badge&logo=github&color=10B981)
+
+<br/>
+
+<!-- GitHub Stats 卡片 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmengli123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmengli123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
 
 <!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmengli123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmengli123&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </a>
 
 </div>
@@ -80,7 +87,7 @@ const ymll = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yanmengli123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yanmengli123&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -100,7 +107,6 @@ const ymll = {
 
 <div align="center">
 
-<!-- 贪吃蛇动画 -->
 ![Snake animation](https://raw.githubusercontent.com/yanmengli123/yanmengli123/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -128,7 +134,7 @@ const ymll = {
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
