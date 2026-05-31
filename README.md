@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 动态打字效果 - 使用正确格式 -->
+<!-- 动态打字效果 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+YMLL;Full+Stack+Developer;Tech+%26+Design+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 <br/>
@@ -62,32 +62,27 @@ const ymll = {
 
 <div align="center">
 
-<!-- GitHub Stats - 使用 shields.io 徽章（更可靠） -->
-![GitHub followers](https://img.shields.io/github/followers/yanmengli123?style=for-the-badge&logo=github&color=10B981)
-![GitHub stars](https://img.shields.io/github/stars/yanmengli123?style=for-the-badge&logo=github&color=10B981)
-![GitHub forks](https://img.shields.io/github/forks/yanmengli123?style=for-the-badge&logo=github&color=10B981)
+<!-- GitHub 统计徽章（完全可靠） -->
+![GitHub followers](https://img.shields.io/github/followers/yanmengli123?style=for-the-badge&logo=github&label=Followers&color=2ecc71)
+![GitHub User's stars](https://img.shields.io/github/stars/yanmengli123?style=for-the-badge&logo=github&label=Stars%20Given&color=f1c40f)
 
-<br/>
+<!-- 仓库统计 -->
+![GitHub repo stars](https://img.shields.io/github/stars/yanmengli123/yanmengli123?style=for-the-badge&logo=github&label=Repo%20Stars&color=3498db)
+![GitHub last commit](https://img.shields.io/github/last-commit/yanmengli123/yanmengli123?style=for-the-badge&logo=github&label=Last%20Commit&color=9b59b6)
 
-<!-- GitHub Stats 卡片 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmengli123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmengli123&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</a>
+<!-- 代码统计 -->
+![GitHub code size](https://img.shields.io/github/languages/code-size/yanmengli123/yanmengli123?style=for-the-badge&logo=github&label=Code%20Size&color=e74c3c)
+![GitHub repo size](https://img.shields.io/github/repo-size/yanmengli123/yanmengli123?style=for-the-badge&logo=github&label=Repo%20Size&color=34495e)
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9S1FvziA/giphy.gif" width="25"> GitHub Streak
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9S1FvziA/giphy.gif" width="25"> GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yanmengli123&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yanmengli123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -134,7 +129,7 @@ const ymll = {
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
